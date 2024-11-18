@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --text-color: #0f0e0e;
+  --text-color: #d8e8ecf3;
   --card-front-color: #d8c6254b;
-  --card-back-color: #4624df;
+  --card-back-color: #ccf1f1;
 }
 
 body {
@@ -32,7 +32,7 @@ body {
   margin: 1rem 1rem;
   height: 20rem;
   flex-grow: 1;
-  flex-basis: calc(43% - 6rem);
+  flex-basis: calc(24% - 6rem);
 }
 
 .cartao__conteudo p {
@@ -81,7 +81,7 @@ body {
 
 footer {
   background-color: rgb(8, 8, 8);
-  color: rgb(219, 222, 10);
+  color: rgb(10, 197, 222);
   position: fixed;
   bottom: 0;
   width: 100%;
